@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.infodefi.com/'
+    href: 'https://infoswap.finance/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.infodefi.com/farms'
+    href: 'https://infoswap.finance/farms'
   },
   {
     label: 'Nests',
     icon: 'PoolIcon',
-    href: 'https://www.infodefi.com/nests'
+    href: 'https://infoswap.finance/nests'
   },
   // {
   //   label: 'Lottery',
