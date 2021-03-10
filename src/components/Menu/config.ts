@@ -24,20 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-<<<<<<< HEAD
     href: 'https://www.infodefi.com/#/farms'
-=======
-    href: 'https://infoswap.finance/farms'
->>>>>>> acb2e5cfbbe370a47de028339ae7300da2d72ded
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-<<<<<<< HEAD
     href: 'https://www.infodefi.com/#/pools'
-=======
-    href: 'https://infoswap.finance/nests'
->>>>>>> acb2e5cfbbe370a47de028339ae7300da2d72ded
   },
   // {
   //   label: 'Lottery',
