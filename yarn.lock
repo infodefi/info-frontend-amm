@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@infodefi/info-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/infodefi/info-uikit/tar.gz/440b3c6a4c08ed95f4bb8e9c5cfba4133794ec53"
+  resolved "https://codeload.github.com/infodefi/info-uikit/tar.gz/ba2aa7f4b45627340f455e86289ca8ceb46ac21b"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

@@ -24,12 +24,20 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
+<<<<<<< HEAD
+    href: 'https://www.infodefi.com/#/farms'
+=======
     href: 'https://infoswap.finance/farms'
+>>>>>>> acb2e5cfbbe370a47de028339ae7300da2d72ded
   },
   {
-    label: 'Nests',
+    label: 'Pools',
     icon: 'PoolIcon',
+<<<<<<< HEAD
+    href: 'https://www.infodefi.com/#/pools'
+=======
     href: 'https://infoswap.finance/nests'
+>>>>>>> acb2e5cfbbe370a47de028339ae7300da2d72ded
   },
   // {
   //   label: 'Lottery',
@@ -75,21 +83,6 @@ const config: MenuEntry[] = [
         href: "https://infofinance.medium.com/",
       },
     ],
-  },
-  {
-    label: 'Partnerships/IFO',
-    icon: 'InfoIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
-  },
-  {
-    label: 'Audit by Hacken',
-    icon: 'AuditIcon',
-    href: 'https://www.infodefi.com/files/hackenAudit.pdf',
-  },
-  {
-    label: 'Audit by CertiK',
-    icon: 'AuditIcon',
-    href: 'https://certik.org/projects/info-finance',
   },
 ]
 
