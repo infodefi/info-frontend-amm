@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.infodefi.com/#/farms'
+    href: 'https://infoswap.financ/#/farms'
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.infodefi.com/#/pools'
+    href: 'https://infoswap.financ/#/pools'
   },
   // {
   //   label: 'Lottery',
